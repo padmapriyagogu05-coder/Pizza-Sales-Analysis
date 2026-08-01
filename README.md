@@ -16,3 +16,4 @@
 - Total Pizzas Sold by Pizza Category
 - Top 5 Best Sellers by Revenue,Total Quantity and Total Orders
 - Bottom 5 Best Sellers by Revenue,Total Quantity and Total Orders
+- <a href="https://github.com/padmapriyagogu05-coder/Pizza-Sales-Analysis/blob/main/pizzasales15.pbix">Dashboard interaction</a>
