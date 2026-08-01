@@ -9,4 +9,10 @@
 - Total Pizzas Sold
 - Total Orders
 - Average Pizzas Per Order
-  
+- Daily Trend for Total Orders
+- Monthly Trend for Total Orders
+- Percentage of Sales by Pizza Category
+- Percentage of Sales by Pizza Size
+- Total Pizzas Sold by Pizza Category
+- Top 5 Best Sellers by Revenue,Total Quantity and Total Orders
+- Bottom 5 Best Sellers by Revenue,Total Quantity and Total Orders
