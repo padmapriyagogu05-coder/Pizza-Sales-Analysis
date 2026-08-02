@@ -37,5 +37,10 @@
 - Product Stars: The Thai Chicken earns the highest revenue; The Classic Deluxe has the highest volume.
 - Lowest Performer: The Brie Carre ranks last across all metrics, generating only $12K.
 
+## Final conclusion & Action Plan
+- Implement Combo Offers: Pair high-volume favorites like The Classic Deluxe with high-margin Large Classic Category pizzas as bundled weekend combo deals to maximize peak-hour revenue.
+- Target Slow Periods: Run mid-week combo promotions to boost order volume during lower-performing weekdays.
+- Menu Optimization: Remove the underperforming Brie Carre pizza to reduce inventory costs and streamline kitchen operations.
+
 
 
