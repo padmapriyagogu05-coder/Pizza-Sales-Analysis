@@ -19,10 +19,10 @@
 - <a href="https://github.com/padmapriyagogu05-coder/Pizza-Sales-Analysis/blob/main/pizzasales15.pbix">Dashboard interaction</a>
 
 ## Project Process
-Data Extraction: Used SQL to pull raw transactional data.
-Data Cleaning: Used Power Query in Power BI to clean and transform the dataset.
-Data Modeling: Authored DAX measures to calculate core business KPIs.
-Visualization: Built an interactive multi-page dashboard with dynamic slicers.
+- Data Extraction: Used SQL to pull raw transactional data.
+- Data Cleaning: Used Power Query in Power BI to clean and transform the dataset.
+- Data Modeling: Authored DAX measures to calculate core business KPIs.
+- Visualization: Built an interactive multi-page dashboard with dynamic slicers.
 
 ## Dashboard
 
